@@ -3,7 +3,7 @@
 + Mount btrfs partition
 ```
 mkdir /mnt/btrfs
-mount /dev/sda1 /mnt/btrfs
+mount /dev/sda2 /mnt/btrfs
 ```
 
 + Mount btrfs root subvolume
